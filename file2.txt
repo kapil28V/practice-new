@@ -1,7 +1,15 @@
 
 kapil
+<<<<<<< HEAD
 C
 
 
 I want ot merge dev4 into main branch
 apil
+=======
+kapil
+>>>>>>> refs/remotes/origin/mai
+
+
+Ce
+ok I agree tn
